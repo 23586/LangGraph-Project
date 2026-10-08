@@ -25,7 +25,7 @@ An interactive version is available in `architecture.html`.
 
 ### Prerequisites
 - Python 3.10+
-- An API key for [your LLM provider, e.g. OpenAI]
+- Qwen3:1.7b Local Model
 
 ### Running
 ```bash
