@@ -1,6 +1,6 @@
-# LangGraph Project
+# LangGraph Project v1
 
-[One or two sentences: what this project does, e.g. "An AI agent built with LangGraph that ..."]
+LangGrapgh implementation on the CVs data stored in local DB, Frontend is created using streamlit, where we can ask questions related to the data present in the DB
 
 ## Architecture
 
