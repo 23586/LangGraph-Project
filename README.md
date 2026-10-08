@@ -27,12 +27,8 @@ An interactive version is available in `architecture.html`.
 - Python 3.10+
 - An API key for [your LLM provider, e.g. OpenAI]
 
-### Installation
+### Running
 ```bash
-git clone https://github.com/23586/LangGraph-Project.git
-cd LangGraph-Project
-pip install langgraph [other packages you use]
+python app.py
 ```
 
-### Configuration
-Create a `.env` file in the project root:
